@@ -1,4 +1,4 @@
 ···
-npm install --save-dev rollup
-rollup -c
+    npm install --save-dev rollup
+    rollup -c
 ···
