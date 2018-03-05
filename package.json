@@ -1,0 +1,15 @@
+{
+  "name": "threejs-rollup",
+  "version": "1.0.0",
+  "description": "threejs-rollup",
+  "main": "src/Three.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": "rollup -c",
+  "keywords": [
+    "rollup"
+  ],
+  "author": "Jiangang Lu",
+  "license": "MIT"
+}
